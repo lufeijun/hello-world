@@ -1,4 +1,4 @@
-<?
+<?php
 namespace Lufeijun1234;
 
 /**
