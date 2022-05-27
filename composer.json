@@ -1,0 +1,21 @@
+{
+    "name": "lufeijun1234/helloworld",
+    "description": "this is a test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lufeijun1234",
+            "email": "lufeijun_1234@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 7.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "Lufeijun1234\\": "src/"
+        }
+    }
+}
