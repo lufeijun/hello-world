@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Lufeijun1234\\": "src/"
+          "Lufeijun1234\\Helloworld\\": "src/"
         }
     }
 }

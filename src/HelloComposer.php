@@ -1,5 +1,5 @@
 <?php
-namespace Lufeijun1234;
+namespace Lufeijun1234\Helloworld;
 
 /**
  * 熟悉 composer 包流程
